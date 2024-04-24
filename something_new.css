@@ -1,0 +1,42 @@
+p{
+    color: black;
+    
+    font: all-petite-caps;
+}
+.myimage{
+    height: 50px;
+    width: 50px;
+    display: block;
+}
+button{
+    color: #fff;
+    padding: 15px 30px;
+    border-radius: 6px;
+    background: #7d2ae8;
+    transition: all 0.25 ease-out;
+ 
+}
+button:active{
+    transform: scale(0.96);
+}
+div.video3{
+    height: 300px;
+}
+.img{
+
+    margin-left:auto;
+    margin-right: auto;
+    height: 700px;
+    width: 300px;
+    display: block;
+}
+.footer{
+    color: blue;
+}
+.img2{
+    display: block;
+    height: 50px;
+    width: 150px;
+    margin-right: auto;
+   margin-left:auto ;
+}
